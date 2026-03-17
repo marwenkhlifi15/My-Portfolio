@@ -1,26 +1,59 @@
-## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+# Personal Portfolio — Marwen Khlifi 👨‍💻
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+A modern, responsive portfolio website to showcase my work as a **Software Engineer** with experience in **mobile development, full‑stack web development, and DevOps/Cloud**.
 
+🔗 **Live Demo**: https://marwenkhlifi15.github.io/My-Portfolio/  
+🔗 **LinkedIn**: https://www.linkedin.com/in/marwen-khlifi  
+🔗 **GitHub**: https://github.com/marwenkhlifi15  
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+---
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
+## 🧑‍💻 About Me
 
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+I am a Software Engineer with a Telecommunications Engineering degree and hands-on experience in:
 
+- **Mobile development** (Flutter, Android/Kotlin, React Native)
+- **Full‑stack web development** (React, Node.js, REST APIs)
+- **DevOps & Cloud** (Docker, Kubernetes, CI/CD on Azure)
 
-<h2>📬 Contact</h2>
+I enjoy building scalable, user-centric applications and working on real-world projects like marketplaces, ERP modules, streaming apps, and solar energy landing pages.
 
-Feel free to reach me through the below handles if you'd like to contact me.
+---
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
+## 🛠️ Tech Stack Highlighted in the Portfolio
+
+- **Languages:** JavaScript, TypeScript, Python, Java, Kotlin, Dart  
+- **Frontend:** React, HTML5, CSS3, Bootstrap  
+- **Backend:** Node.js, Express, REST APIs  
+- **Mobile:** Flutter, Android (Kotlin), React Native  
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
+- **DevOps / Tools:** Docker, Kubernetes, GitLab CI, Terraform, Ansible, Azure, Git/GitHub, Postman  
+- **Methodologies:** Agile/Scrum, CI/CD, TDD  
+
+---
+
+## 📂 Main Sections of the Portfolio
+
+- **Home** – Hero section with intro, role, and social links.  
+- **About** – Short bio, location, contact info, and CV link.  
+- **Skills** – Tech stack grouped by categories (languages, frontend, backend, mobile, databases, tools, DevOps).  
+- **Education** – Engineering degree (ENIT), preparatory cycle (IPEIEM), and certifications (AZ‑900, TOEIC B2).  
+- **Projects (Work)** – Selected projects with description and links:
+  - **KIRA** — Community marketplace app (confidential, internship project).
+  - **SensorLogger** — Android sensor logging app.
+  - **Simon Game** — JavaScript memory game.
+  - **Cherif Énergie Renouvelable** — Solar energy company landing page.
+- **Experience** – Timeline of internships and roles:
+  - SmartLogger (Software Developer & DevOps Intern)
+  - Sagemcom (Software Engineering Intern)
+  - START’CHANGE (End‑of‑studies internship).
+- **Contact** – Contact form and social links.
+
+---
+
+## 🚀 Running the Portfolio Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/marwenkhlifi15/My-Portfolio.git
