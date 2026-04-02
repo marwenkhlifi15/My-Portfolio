@@ -1179,3 +1179,9 @@ form .button-area {
   html { font-size: 55%; }
   section { padding: 7rem 2rem 3rem; }
 }
+
+
+.work .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
